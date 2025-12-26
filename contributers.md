@@ -38,6 +38,7 @@
 | Atharva Mehta          | Atharva-insane      | IIIT Allahabad                 |
 | Manisha katariya       | chanchukatariya5     | IIIT Allahabad                 |
 | Kamakshi Gupta          | 29kamakshigupta      | IIIT Allahabad                 |
+| Paarth Arora            |iit2025280-sys        | IIIT Allahabad                 |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
 
