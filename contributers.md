@@ -39,6 +39,7 @@
 | Manisha katariya       | chanchukatariya5     | IIIT Allahabad                 |
 | Kamakshi Gupta          | 29kamakshigupta      | IIIT Allahabad                 |
 | Ibrahim Raza Beg        | PHOX-9               | IIIT Allahabad                 |
+| Mayank Puri             | purimayank19-bot.  | IIIT Allahabad                  |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
 
